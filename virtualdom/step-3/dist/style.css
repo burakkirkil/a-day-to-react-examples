@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  color: peru;
+  background-color: black;
+  padding: 1em;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+  font-size: 100px;
+  width: 200px;
+  display: block;
+  margin: 0;
+  padding: 0;
+}
